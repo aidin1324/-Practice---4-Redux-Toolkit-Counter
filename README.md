@@ -1,4 +1,7 @@
 # Реализация счётчика с Redux Toolkit
+### Иллюстрация:
+![image](https://github.com/user-attachments/assets/9ffc4daa-855e-4e27-86c0-e9575d831514)
+![image](https://github.com/user-attachments/assets/752085ff-4203-4e64-8607-6050138ec096)
 
 ## Описание проекта
 Данное приложение реализует простой счётчик, управляемый через Redux Toolkit. Приложение показывает текущее значение счётчика и предоставляет следующие функции:
@@ -13,7 +16,7 @@
 
 1. Клонируйте репозиторий и перейдите в папку проекта:
      ```bash
-     git clone <URL репозитория>
+     git clone https://github.com/aidin1324/-Practice---4-Redux-Toolkit-Counter.git
      cd app
      ```
 
